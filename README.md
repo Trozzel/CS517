@@ -13,3 +13,7 @@ Dr. Thomas Kennedy
 ## Machine Assignment 3
 
 - [Accuracy](https://github.com/Trozzel/CS517-MachineAssignment3)
+
+## Machine Assignment 4
+
+- [Cleve Moler eps calculation](https://github.com/Trozzel/CS517-MachineAssignement4)
